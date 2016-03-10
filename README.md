@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-* [Curriculum](#curriculum)
-* [Books](#books)
+* [Ruta](#path)
+* [Libros](#books)
 * [Tutorials](#tutorials)
 * [Articles](#articles)
 * [Install Rails](#install-rails)
@@ -18,7 +18,6 @@
 * [Stay Up to Date](#stay-up-to-date)
 * [Podcasts](#podcasts)
 * [Screencasts](#screencasts)
-* [Slides](#slides)
 * [Talks](#talks)
 * [Style Guides](#style-guides)
 * [Third-party APIs](#third-party-apis)
@@ -27,25 +26,33 @@
 
 ---
 
-# Curriculum
+# Path
 
-- [Beginner](#beginner)
-- [Intermediate](#intermediate)
-- [Advanced](#advanced)
+- [Basico](#basico)
+- [Intermedio](#intermedio)
+- [Avanzado](#avanzado)
 
-# Beginner
+# Basico
 
-Path | Courses | Difficulty | Type
+##Español
+
+Tema | Curso | Dificultad | Tipo
 :--: | :-- | :--: | :--:
-Ruby |[Try Ruby](http://tryruby.org/)|Easy | Web
-Ruby|[Ruby - Codecademy](https://www.codecademy.com/tracks/ruby)|Easy | Web
-HTML & CSS|[HTML & CSS - Codecademy](https://www.codecademy.com/tracks/web)|Easy| Web
+Ruby |[Aprende a Programar con Ruby - RubySur](http://rubysur.org/aprende.a.programar/)|Easy | Web
+Ruby|[Introduccion a Rails - RubySur](http://rubysur.org/introduccion.a.rails/)|Easy | Web 
+Ruby|[Curso de Ruby on Rails - Platzi](https://platzi.com/cursos/ruby-on-rails/)|Easy | Video 
+
+##Ingles
+
+Tema | Curso | Dificultad | Tipo
+:--: | :-- | :--: | :--:
 Rails |[Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)|Easy | Video
 Rails |[Ruby on Rails Tutorial](https://www.railstutorial.org/)|Easy| Book & Video
 Rails |[Learn Ruby on Rails (Daniel Kehoe)](http://learn-rails.com/learn-ruby-on-rails.html)| Very Easy| Book
 
-#### Additional
-Path | Courses | Difficulty | Type
+
+#### Adicional (Ingles)
+Tema | Curso | Dificultad | Tipo
 :--: | :-- | :--: | :--:
 JavaScript|[JavaScript Basics](https://www.codeschool.com/courses/javascript-road-trip-part-1)|Easy | Video
 Git |[Try Git - Code School](https://www.codeschool.com/courses/try-git)|Easy | Web
@@ -54,9 +61,9 @@ Rails | [Getting Started with Rails](http://guides.rubyonrails.org/getting_start
 
 
 
-# Intermediate
+# Intermedio
 
-Path | Courses | Difficulty | Type
+Tema | Curso | Dificultad | Tipo
 :--: | :-- | :--: | :--:
 Ruby |[Ruby - RubyMonk](http://rubymonk.com/)|Medium|Web
 Ruby |[Practical Object-Oriented Design in Ruby](http://www.poodr.com/)|Medium|Book
@@ -65,14 +72,14 @@ Rails|[Agile Web Development with Rails](https://pragprog.com/book/rails4/agile-
 Rails|[CS169.1x Engineering Software as a Service, Part 1](https://www.edx.org/course/engineering-software-service-saas-part-1-uc-berkeleyx-cs169-1x)|Medium|Web
 
 #### Additional
-Path | Courses | Difficulty | Type
+Tema | Curso | Dificultad | Tipo
 :--: | :-- | :--: | :--:
 SQL |[Try SQL - Code School](https://www.codeschool.com/courses/try-sql)| Easy|Video
 jQuery|[Try jQuery](https://www.codeschool.com/courses/try-jquery)|Easy|Video
 Rails | [The Rails 4 Way](https://leanpub.com/tr4w)|Medium|Book
 
 
-# Advanced
+# Avanzado
 
 Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
@@ -80,13 +87,13 @@ Ruby |[Ruby - RubyKoans](http://rubykoans.com/)|Medium|Book
 Ruby |[Metaprogramming Ruby](https://pragprog.com/book/ppmetr/metaprogramming-ruby)|Hard|Book
 Rails|[Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)|Hard|Book
 
-#### Additional
-Path | Courses | Difficulty | Type
+#### Adicional
+Tema | Curso | Dificultad | Tipo
 :--: | :-- | :--: | :--:
 Ruby |[Eloquent Ruby](http://eloquentruby.com/)|Medium|Book
 
-## Other Courses
-Path | Courses | Level| Type |Access |Platform
+## Otros Cursos
+Tema | Curso | Dificultad | Tipo | Acceso | Plataforma
 :--: | :-- | :--: | :--:|:--:|:--:
 Ruby|[Ruby Bits](https://www.codeschool.com/courses/ruby-bits)|Beginner|Web|Paid|CodeSchool
 Ruby|[Ruby Bits Part 2](https://www.codeschool.com/courses/ruby-bits-part-2)|Intermediate|Web|Paid|CodeSchool
@@ -106,9 +113,9 @@ Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video
 
 ---
 
-# Books
+# Libros
 
-### Beginner
+### Basico
 1. [Learn to Program](https://pine.fm/LearnToProgram/)
 1. [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
 1. [Programming Ruby 1.9 & 2.0](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
@@ -118,13 +125,13 @@ Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video
 1. [Ruby on Rails Tutorial](https://www.railstutorial.org/)
 1. [Agile Web Development with Rails](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)
 
-### Intermediate
+### Intermedio
 
 1. [Practical Object-Oriented Design in Ruby](http://www.poodr.com/)
 1. [The Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist)
 1. [Rails 4 in Action](https://www.manning.com/books/rails-4-in-action)
 
-### Advanced
+### Avanzado
 
 1. [Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)
 1. [Metaprogramming Ruby](https://pragprog.com/book/ppmetr/metaprogramming-ruby)
@@ -133,7 +140,7 @@ Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video
 1. [Eloquent Ruby](http://eloquentruby.com/)
 1. [Design Patterns in Ruby](http://designpatternsinruby.com/)
 
-# Tutorials
+# Tutoriales
 
 1. [Capstone Rails Tutorials](https://tutorials.railsapps.org/)
 1. [How to develop a social network using Ruby on Rails](https://medium.com/rails-ember-beyond/how-to-build-a-social-network-using-rails-eb31da569233)
@@ -143,14 +150,14 @@ Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video
 1. [Gmail Like Chat Application in Ruby on Rails](http://josephndungu.com/tutorials/gmail-like-chat-application-in-ruby-on-rails)
 1. [Private Inbox System in Rails with Mailboxer](http://josephndungu.com/tutorials/private-inbox-system-in-rails-with-mailboxer)
 
-# Articles
+# Articulos
 
 1. [Building a Ruby Gem in 2015](https://mattbrictson.com/building-a-gem-in-2015) - [Matt Brictson](https://mattbrictson.com/)
 1. [24 Extremely Useful Ruby Gems for Web Development](http://code.tutsplus.com/articles/24-extremely-useful-ruby-gems-for-web-development--net-23863)
 1. [Setting up Sublime Text 3 for Rails Development](https://mattbrictson.com/sublime-text-3-recommendations) - [Matt Brictson](https://mattbrictson.com/)
 
-# Install Rails
-### Recommended
+# Instalar Rails
+### Recomendado
 
 |OS|Tutorial|
 :--: | :--: |
@@ -158,7 +165,7 @@ Mac | [Rails OS X Setup Guide](https://mattbrictson.com/rails-osx-setup-guide) -
 Ubuntu | [Setup Ruby On Rails on Ubuntu - GoRails](https://gorails.com/setup/ubuntu/14.04)|
 Windows | [RailsInstaller](http://railsinstaller.org/en)|
 
-#### Other methods
+#### Otros Metodos
 |OS|Tutorial|
 :--:|:--:|
 Mac | [Install Ruby on Rails on Mac OS X](http://railsapps.github.io/installrubyonrails-mac.html) - [RailsApps](http://railsapps.github.io/)
@@ -173,7 +180,7 @@ Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrub
 
 
 
-# Built with Rails
+# Sitios famosos hechos con Ruby
 
 1. [Twitter](https://twitter.com/)
 1. [Slideshare](http://www.slideshare.net/)
@@ -212,7 +219,7 @@ Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrub
 1. [ThemeForest](http://themeforest.net/)
 
 
-# Learn with Code
+# Codigo de Referencia
 
 1. [RailsApps Example Applications](http://railsapps.github.io/) - Code from the [Capstone Rails Tutorials](https://tutorials.railsapps.org/)
 1. [Treebook](https://github.com/jasonseifer/treebook) - A social networking web application with features similar to Facebook.
@@ -225,14 +232,14 @@ Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrub
 
 * [12 web apps in 12 weeks - Mackenzie Child](https://mackenziechild.me/12-in-12/)
 
-# Help
+# Ayuda
 
 * [StackOverflow](http://stackoverflow.com/questions/tagged/ruby-on-rails)
 * [Chatroom (Browser-based IRC)](http://webchat.freenode.net/?channels=rubyonrails)
 * [Reddit](https://www.reddit.com/r/rails)
 
 
-# Community
+# Comunidad
 
 - [Ruby on Rails: Community](http://rubyonrails.org/community/)
 - [Rails on Twitter](https://twitter.com/rails)
@@ -240,13 +247,15 @@ Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrub
 - [Ruby Community](https://www.ruby-lang.org/en/community/)
 - [RubyFlow - The Ruby and Rails community linklog](http://www.rubyflow.com/)
 
+# Comunidad en Espanol
+- [Ruby Sur](http://rubysur.org)
 
-# News
+# Noticias y Novedades
 
 - [Ruby Weekly](http://rubyweekly.com/)
 - [Ruby Flow](http://www.rubyflow.com/)
 
-# Stay Up to Date
+# Mantente al dia
 
 - [@dhh](http://twitter.com/dhh): The creator of Ruby on Rails. Posts insight on new releases and various tips.
 - [@rbates](https://twitter.com/rbates): Producer of Railscasts, posts tips and tricks very often.
@@ -265,25 +274,20 @@ Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrub
 1. [GoRails](https://gorails.com)
 
 
-# Slides
-
-1. [Testing Ruby with Rspec (a beginner's guide)](http://www.slideshare.net/vysakh0/testing-ruby-with-rspec-a-beginners-guide)
-
-
 # Talks
 
 1. [The Best of RailsConf 2015](https://mattbrictson.com/best-of-railsconf-2015)
 1. [Railsconf 2014, Talks I Liked](http://nepalonrails.com/blog/2014/05/railsconf-2014-talks-i-liked)
 1. [Favorite talks of RailsConf 2013](http://blog.planetargon.com/entries/2013/5/31/favorite-talks-of-railsconf-2013)
 
-## Style Guides
+## Guia de Estilo
 
 - [A community-driven Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide)
 - [A community-driven Rails 3 & 4 style guide](https://github.com/bbatsov/rails-style-guide)
 - [GitHub Ruby Coding Style](https://github.com/styleguide/ruby)
 - [Thoughtbot Style Guides](https://github.com/thoughtbot/guides)
 
-# Third-party APIs
+# API's de Terceros
 
 * [twilio-ruby](https://github.com/twilio/twilio-ruby) - A module for using the Twilio REST API and generating valid TwiML.
 * [twitter](https://github.com/sferik/twitter) - A Ruby interface to the Twitter API.
@@ -309,10 +313,8 @@ Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrub
 * [t](https://github.com/sferik/t) - A command-line power tool for Twitter.
 * [tweetstream](https://github.com/tweetstream/tweetstream) - A simple library for consuming Twitter's Streaming API.
 
-# More Useful Links
+# Enlaces mas usados
 
 - [The Ruby Toolbox - Know Your Options!](https://www.ruby-toolbox.com/)
 
-# How to Collaborate
 
-Send a pull request or just open an [issue](https://github.com/sagarmred/Rails-Graduate/issues?q=is%3Aopen) to send more useful links! After it, I'll update the list!
